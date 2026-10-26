@@ -1,19 +1,13 @@
-<div align="center">
+Modbus • OPC UA • CAN Bus • DNP3 • BACnet • PROFIBUS • EtherCAT
 
-```
-  ██████╗ ██████╗ ███████╗███████╗███╗   ██╗     ██████╗██╗   ██╗██████╗ ██╗████████╗ ██████╗ ███████╗
- ██╔════╝██╔═══██╗██╔════╝██╔════╝████╗  ██║    ██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝██╔═══██╗██╔════╝
- ██║     ██║   ██║█████╗  █████╗  ██╔██╗ ██║    ██║     ██║   ██║██████╔╝██║   ██║   ██║   ██║███████╗
- ██║     ██║   ██║██╔══╝  ██╔══╝  ██║╚██╗██║    ██║     ██║   ██║██╔══██╗██║   ██║   ██║   ██║╚════██║
- ╚██████╗╚██████╔╝██║     ███████╗██║ ╚████║    ╚██████╗╚██████╔╝██║  ██║██║   ██║   ╚██████╔╝███████║
-  ╚═════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝    ╚═════╝ ╚══════╝
-```
+<img width="1248" height="832" alt="OIG2" src="https://github.com/user-attachments/assets/ba4862ab-7675-4333-bcb2-5dddd0fba30d" />
 
-# <span style="color:#00ff00">🛡️ INDUSTRIAL PROTOCOLS MASTERY GUIDE 🛡️</span>
+
+# <span style="color:#00ff00"> INDUSTRIAL PROTOCOLS MASTERY GUIDE </span>
 
 ## <span style="color:#00ff41">Modbus • OPC UA • CAN Bus • DNP3 • BACnet • PROFIBUS • EtherCAT</span>
 
-### <span style="color:#00ff00">⚡ ARCHITECTURE • CONFIGURATION • SECURITY • AUDIT • APPLICATIONS ⚡</span>
+### <span style="color:#00ff00"> ARCHITECTURE • CONFIGURATION • SECURITY • AUDIT • APPLICATIONS </span>
 
 **Auteur : `hackers_tchad`**  
 **Date de publication : `2026`**  
@@ -28,7 +22,7 @@
 
 ---
 
-## 📚 Table des matières
+##  Table des matières
 
 1. [Introduction générale](#introduction-générale)
 2. [Modbus](#modbus)
@@ -1546,14 +1540,7 @@ echmod or ecat
 ║   Auteur   : hackers_tchad                                                   ║
 ║   Date     : 2026                                                            ║
 ║                                                                              ║
-║   Ce document est fourni à des fins éducatives et professionnelles.          ║
-║   L'utilisation des techniques décrites doit se faire dans un                ║
-║   cadre légal et avec l'autorisation explicite du propriétaire               ║
-║   des systèmes concernés.                                                    ║
-║                                                                              ║
-║   Toute reproduction ou distribution doit mentionner l'auteur.               ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+================================================================================
 ```
 
 <div align="center">
