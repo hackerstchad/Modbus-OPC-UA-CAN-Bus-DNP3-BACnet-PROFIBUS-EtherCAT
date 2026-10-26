@@ -4,13 +4,10 @@
 <img width="1248" height="832" alt="OIG2" src="https://github.com/user-attachments/assets/ba4862ab-7675-4333-bcb2-5dddd0fba30d" />
 
 
-### <span style="color:#00ff00"> ARCHITECTURE • CONFIGURATION • SECURITY • AUDIT • APPLICATIONS </span>
-
 **Auteur : `hackers_tchad`**  
 **Date de publication : `2026`**  
 **Classification : Référence avancée - Industrial Cybersecurity & IIoT**
 
-[![Matrix](https://img.shields.io/badge/MODE-GREEN_MATRIX-00ff00?style=for-the-badge&logo=matrix&logoColor=green)](https://matrix.org)
 [![Industrial](https://img.shields.io/badge/INDUSTRIAL-PROTOCOLS-ff6600?style=for-the-badge)](https://)
 [![Cybersecurity](https://img.shields.io/badge/OT-CYBERSECURITY-00ff00?style=for-the-badge)](https://)
 [![Hackers_Tchad](https://img.shields.io/badge/AUTHOR-hackers__tchad-000000?style=for-the-badge&labelColor=00ff00)](https://)
