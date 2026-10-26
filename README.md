@@ -1,11 +1,8 @@
-Modbus • OPC UA • CAN Bus • DNP3 • BACnet • PROFIBUS • EtherCAT
+
+## <span style="color:#00ff41">Modbus • OPC UA • CAN Bus • DNP3 • BACnet • PROFIBUS • EtherCAT</span>
 
 <img width="1248" height="832" alt="OIG2" src="https://github.com/user-attachments/assets/ba4862ab-7675-4333-bcb2-5dddd0fba30d" />
 
-
-# <span style="color:#00ff00"> INDUSTRIAL PROTOCOLS MASTERY GUIDE </span>
-
-## <span style="color:#00ff41">Modbus • OPC UA • CAN Bus • DNP3 • BACnet • PROFIBUS • EtherCAT</span>
 
 ### <span style="color:#00ff00"> ARCHITECTURE • CONFIGURATION • SECURITY • AUDIT • APPLICATIONS </span>
 
